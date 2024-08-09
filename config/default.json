@@ -1,0 +1,5 @@
+{
+    "serverPort" : 3001,
+    "dbUrl": "mongodb+srv://azatabdykalli:bJ9bm1bCdmiCUkmo@whitekargo.3gy2akq.mongodb.net/?retryWrites=true&w=majority&appName=whitekargo",
+    "secretKey" : "mern-secret-key"
+}
